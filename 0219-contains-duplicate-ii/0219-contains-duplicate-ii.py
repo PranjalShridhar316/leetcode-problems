@@ -1,8 +1,10 @@
 class Solution:
     def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
-        seen = {}
+        window = set()
         for i, num in enumerate(nums):
-            if num in seen and i - seen[num] <= k:
+            if num in window:
                 return True
-            seen[num] = i
+            window.add(num)
+            if len(window) > k:
+                window.remove(nums[i - k])
         return False
