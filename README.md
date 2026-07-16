@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0219-contains-duplicate-ii](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
@@ -23,4 +24,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
