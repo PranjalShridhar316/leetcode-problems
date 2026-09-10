@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -113,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
