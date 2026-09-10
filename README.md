@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0219-contains-duplicate-ii](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0896-monotonic-array](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0896-monotonic-array) |
 ## Prefix Sum
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
 | ------- |
@@ -101,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0258-add-digits) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/PranjalShridhar316/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
